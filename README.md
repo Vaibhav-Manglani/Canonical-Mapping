@@ -19,3 +19,5 @@ A Streamlit-based tool to map messy CSV/Excel headers to a canonical schema.
 pip install -r requirements.txt
 streamlit run src/app.py
 ```
+
+## Video Link with Demo - https://drive.google.com/file/d/1pT2kOk0919O2OqkNl3isLMJ36u9lF_GX/view?usp=sharing
